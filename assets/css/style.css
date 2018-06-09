@@ -1,0 +1,33 @@
+body {
+    background-image: url("../images/pentacles.png"); 
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    color: white;
+    margin: 15px auto;
+    padding: 0 15px;
+}
+
+#pguess {
+    text-align: center;
+
+}
+.container {
+    height: 220px;
+    width: 600px;
+    background-color: #7b509e;
+    border: 3px solid white;
+    border-radius: 15px;
+    margin: 100px auto;
+}
+
+    
